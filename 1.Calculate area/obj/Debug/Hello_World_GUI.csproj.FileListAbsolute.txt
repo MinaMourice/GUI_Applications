@@ -1,0 +1,9 @@
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\bin\Debug\Hello_World_GUI.exe
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\bin\Debug\Hello_World_GUI.pdb
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\obj\Debug\Hello_World_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\obj\Debug\Hello_World_GUI.Form_Mina.resources
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\obj\Debug\Hello_World_GUI.Properties.Resources.resources
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\obj\Debug\Hello_World_GUI.csproj.GenerateResource.Cache
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\obj\Debug\Hello_World_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\obj\Debug\Hello_World_GUI.exe
+C:\Users\Mina Mourice\source\repos\Hello_World_GUI\obj\Debug\Hello_World_GUI.pdb
